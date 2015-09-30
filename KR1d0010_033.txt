@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周禮訂義
-#+DATE: 2015-09-23 09:37:26
-#+PROPERTY: JUAN 33
+#+DATE: 2015-08-24 22:07:38.281250
+#+PROPERTY: ID KR1d0010
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十三
 <pb:KR1d0010_WYG_033-1a>¶
 欽定四庫全書¶
 　周禮訂義卷三十三　　　宋　王與之　撰¶
@@ -560,4 +562,3 @@
 　¶
 　¶
 　周禮訂義卷三十三¶
-

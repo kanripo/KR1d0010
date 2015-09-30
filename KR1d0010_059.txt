@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周禮訂義
-#+DATE: 2015-09-23 09:37:26
-#+PROPERTY: JUAN 59
+#+DATE: 2015-08-24 22:07:39.035093
+#+PROPERTY: ID KR1d0010
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五十九
 <pb:KR1d0010_WYG_059-1a>¶
 欽定四庫全書¶
 　周禮訂義卷五十九　　　宋　王與之　撰¶
@@ -362,4 +364,3 @@
 　所以紀小司寇一職之終也¶
 　¶
 　周禮訂義卷五十九¶
-
